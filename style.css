@@ -231,7 +231,7 @@ a:hover {
 video {
 	overflow: hidden;
 	background-size: cover;
-	height: 100%;
+	width: 100%;
 	width: inherit;
 }
 }
