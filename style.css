@@ -234,4 +234,8 @@ video {
 	width: 100%;
 	width: inherit;
 }
+	
+.interview {
+	background-color: transparent;
+}
 }
